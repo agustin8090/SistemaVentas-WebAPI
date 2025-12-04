@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|c:\\users\\mate\u00B4s pc\\downloads\\proyecto_final\\proyecto_final\\paginas\\pagina_asignar_turnos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:paginas\\pagina_asignar_turnos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|c:\\users\\mate\u00B4s pc\\downloads\\proyecto_final\\proyecto_final\\paginas\\pagina_asignar_turnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:paginas\\pagina_asignar_turnos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|c:\\users\\mate\u00B4s pc\\downloads\\proyecto_final\\proyecto_final\\datos\\medico_clinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:datos\\medico_clinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|c:\\users\\mate\u00B4s pc\\downloads\\proyecto_final\\proyecto_final\\entidad\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:entidad\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|c:\\users\\mate\u00B4s pc\\downloads\\proyecto_final\\proyecto_final\\paginas\\pagina_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:paginas\\pagina_login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\negocio\\informes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:negocio\\informes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\paginas\\pagina_administrador.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:paginas\\pagina_administrador.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\paginas\\pagina_administrador.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:paginas\\pagina_administrador.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\paginas\\pagina_informes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:paginas\\pagina_informes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\paginas\\pagina_informes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:paginas\\pagina_informes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\negocio\\turno_negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:negocio\\turno_negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\datos\\turno_clinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21312306-D275-4F94-A29E-284B591D6FB7}|proyecto_final.csproj|solutionrelative:datos\\turno_clinica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 210,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 254,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{6bf11835-8a31-496c-b01e-94f731afc7ce}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{6bf11835-8a31-496c-b01e-94f731afc7ce}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{6bf11835-8a31-496c-b01e-94f731afc7ce}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{6bf11835-8a31-496c-b01e-94f731afc7ce}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "medico_clinica.cs",
+              "DocumentMoniker": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Datos\\medico_clinica.cs",
+              "RelativeDocumentMoniker": "Datos\\medico_clinica.cs",
+              "ToolTip": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Datos\\medico_clinica.cs",
+              "RelativeToolTip": "Datos\\medico_clinica.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAcwG8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T22:42:34.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pagina_asignar_turnos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Paginas\\Pagina_asignar_turnos.aspx.cs",
+              "RelativeDocumentMoniker": "Paginas\\Pagina_asignar_turnos.aspx.cs",
+              "ToolTip": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Paginas\\Pagina_asignar_turnos.aspx.cs",
+              "RelativeToolTip": "Paginas\\Pagina_asignar_turnos.aspx.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAYwPIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:29:12.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pagina_asignar_turnos.aspx",
+              "DocumentMoniker": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Paginas\\Pagina_asignar_turnos.aspx",
+              "RelativeDocumentMoniker": "Paginas\\Pagina_asignar_turnos.aspx",
+              "ToolTip": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Paginas\\Pagina_asignar_turnos.aspx",
+              "RelativeToolTip": "Paginas\\Pagina_asignar_turnos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-03T22:43:43.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Entidad\\Medico.cs",
+              "RelativeDocumentMoniker": "Entidad\\Medico.cs",
+              "ToolTip": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Entidad\\Medico.cs",
+              "RelativeToolTip": "Entidad\\Medico.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T22:42:05.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pagina_login.aspx",
+              "DocumentMoniker": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Paginas\\pagina_login.aspx",
+              "RelativeDocumentMoniker": "Paginas\\pagina_login.aspx",
+              "ToolTip": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Paginas\\pagina_login.aspx",
+              "RelativeToolTip": "Paginas\\pagina_login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-03T22:26:38.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pagina_informes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Paginas\\Pagina_informes.aspx.cs",
+              "RelativeDocumentMoniker": "Paginas\\Pagina_informes.aspx.cs",
+              "ToolTip": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Paginas\\Pagina_informes.aspx.cs",
+              "RelativeToolTip": "Paginas\\Pagina_informes.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:28:12.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Informes.cs",
+              "DocumentMoniker": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Negocio\\Informes.cs",
+              "RelativeDocumentMoniker": "Negocio\\Informes.cs",
+              "ToolTip": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Negocio\\Informes.cs",
+              "RelativeToolTip": "Negocio\\Informes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:19:50.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Turno_negocio.cs",
+              "DocumentMoniker": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Negocio\\Turno_negocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Turno_negocio.cs",
+              "ToolTip": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Negocio\\Turno_negocio.cs",
+              "RelativeToolTip": "Negocio\\Turno_negocio.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:18:13.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Turno_clinica.cs",
+              "DocumentMoniker": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Datos\\Turno_clinica.cs",
+              "RelativeDocumentMoniker": "Datos\\Turno_clinica.cs",
+              "ToolTip": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Datos\\Turno_clinica.cs",
+              "RelativeToolTip": "Datos\\Turno_clinica.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAHAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:16:43.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pagina_administrador.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Paginas\\pagina_administrador.aspx.cs",
+              "RelativeDocumentMoniker": "Paginas\\pagina_administrador.aspx.cs",
+              "ToolTip": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Paginas\\pagina_administrador.aspx.cs",
+              "RelativeToolTip": "Paginas\\pagina_administrador.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T17:07:16.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pagina_administrador.aspx",
+              "DocumentMoniker": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Paginas\\pagina_administrador.aspx",
+              "RelativeDocumentMoniker": "Paginas\\pagina_administrador.aspx",
+              "ToolTip": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Paginas\\pagina_administrador.aspx",
+              "RelativeToolTip": "Paginas\\pagina_administrador.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-03T17:07:04.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pagina_informes.aspx",
+              "DocumentMoniker": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Paginas\\Pagina_informes.aspx",
+              "RelativeDocumentMoniker": "Paginas\\Pagina_informes.aspx",
+              "ToolTip": "C:\\Users\\Mate\u00B4s pc\\Downloads\\proyecto_final\\proyecto_final\\Paginas\\Pagina_informes.aspx",
+              "RelativeToolTip": "Paginas\\Pagina_informes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-03T17:06:28.373Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 22,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
